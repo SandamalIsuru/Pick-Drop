@@ -1,0 +1,106 @@
+/* CSS Document */
+
+
+/*table */
+.colName{
+	background:#7895C9;
+	color:#FFF;
+	text-align:center;
+	font-size:20px;
+	
+}
+
+/* message icon */
+
+.mess{
+	color:#FFF;
+	
+}
+
+.indexImg {
+	background-image:url(../img/12670089_1705964679617656_3055597704528652163_n.jpg);
+	height:500px;
+	-webkit-align-self: center; /* Safari 7.0+ */
+    align-self: center;
+}
+
+.text-center{
+	padding-top:190px;
+	font-size:80px;
+	color:#E9E9E9;
+	
+}
+
+.logoo{
+	width:60px;
+	height:30px;
+	
+}
+
+.list-inline{
+	float:right;
+	
+	
+}
+
+.detail{
+	border-radius:5px;
+	background-color:#7895C9;
+	
+}
+
+.des{
+	width:180px;
+	font-size:18px;
+	color:#FFFFFF;
+	font-style:italic;
+}
+
+.del{
+	width:auto;
+	background-color:#FFFFFF;
+	border-radius:8px;
+	font-size:16px;
+	color:#000000;
+	padding-left:5px;	
+}
+
+.info{
+	text-align:center;
+	font-size:25px;
+	color:#FFFFFF;
+	
+}
+
+#updateUser{
+	height:50px;
+	width:120px;
+	font-size:20px;
+	margin-top:50px;
+	
+}
+
+#deleteUser{
+	height:50px;
+	width:120px;
+	font-size:20px;
+	margin-left:30px;
+	margin-top:50px;
+	
+}
+
+.act .del{
+	background-color:#DCDCDC;
+	font-size:18px;
+	
+}
+
+.done, .cancel{
+	margin-top:20px;
+	
+}
+
+.cancel{
+	margin-left:20px;
+	
+}
